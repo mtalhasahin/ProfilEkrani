@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menu_action_bar_profil_title">Profil</string>
+    <string name="app_name">ProfilEkrani</string>
+    <string name="title_activity_profil">ProfilActivity</string>
+     <string name="kullanici_adi">Kullanıcı Adı</string>
+    <string name="sifre">Şifre</string>
+    <string name="ad">Ad</string>
+    <string name="ad_zorunlu">Ad (*)</string>
+    <string name="soyad">Soyad</string>
+    <string name="soyad_zorunlu">Soyad (*)</string>
+    <string name="email">Email Adresi</string>
+    <string name="cinsiyet">Cinsiyet</string>
+    <string name="dogum_gunu">Doğum Günü</string>
+    <string name="telefon">Telefon Numarası</string>
+    <string name="kaydet">Kaydet</string>
+     
+    
+    <string name="toast_bilinmeyen_hata">Bilinmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyin!</string>
+    <string name="toast_profil_kaydet_basarili">Profiliniz başarıyla kaydedildi!</string>
+    <string name="toast_profil_validasyon_hatasi">Lütfen zorunlu alanları doldurduğunuzdan emin olun!</string>
+</resources>
